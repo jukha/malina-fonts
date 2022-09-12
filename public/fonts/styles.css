@@ -1,0 +1,10 @@
+@font-face {
+  font-family: 'Malina1';
+  src: url(/Malina1.eot);
+  src: url(/Malina1.eot?#iefix) format('embedded-opentype'),
+       url(/Malina1.otf) format('otf'),
+       url(/Malina1.svg#Malina1) format('svg'),
+       url(/Malina1.ttf) format('truetype'),
+       url(/Malina1.woff) format('woff'),
+       url(/Malina1.woff2) format('woff2');
+}
